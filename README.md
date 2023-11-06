@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm</h1>
-<h1 align="center">Muhamad Zafar Syah</h1>
+<h1 align="center">Hi 👋, I'm Muhamad Zafar Syah</h1>
 <img align="center" alt="Web-Developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mygo.ge%2Fuploads%2Fblog%2F1584023795.jpg&f=1&nofb=1&ipt=6647dd4ae71e58191175e2905d9d68642d22c517fbff23a74323f9317492e128&ipo=images">
 <h3 align="justify">A passionate frontend developer from Indonesia</h3>
 <p align="justify">My name is Muhammad Zafar Syah from Jakarta, Indonesia. I am 17 years old, I am a student from SMKN 65 Jakarta. I have just started studying web development, I am interested in becoming a front end developer of a website, with my high enthusiasm all my achievements can be achieved</p>
