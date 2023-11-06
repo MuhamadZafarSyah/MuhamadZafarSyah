@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Zafar Syah</h1>
-<img align="center" alt="Web-Developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftheninehertz.com%2Fwp-content%2Fuploads%2F2020%2F06%2Ffull-stack-development.gif&f=1&nofb=1&ipt=a6ffb782b83a4327c4bf43c13e42188eb31981cfe9fb76fe9dc47cfed9da0d02&ipo=images](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mygo.ge%2Fuploads%2Fblog%2F1584023795.jpg&f=1&nofb=1&ipt=6647dd4ae71e58191175e2905d9d68642d22c517fbff23a74323f9317492e128&ipo=images)">
+<img align="center" alt="Web-Developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mygo.ge%2Fuploads%2Fblog%2F1584023795.jpg&f=1&nofb=1&ipt=6647dd4ae71e58191175e2905d9d68642d22c517fbff23a74323f9317492e128&ipo=images">
 <h3 align="justify">A passionate frontend developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadzafarsyah&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadzafarsyah" /> </p>
