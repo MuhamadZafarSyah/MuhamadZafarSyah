@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Muhamad+Zafar+Syah;A+Passionate+Fullstack+Student+Developer!" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74462760/230733383-92a92f1b-6c65-43c7-bb45-8b5403a4a2ed.png" alt="Banner" />
-</p>
 
 ---
 
