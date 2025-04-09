@@ -1,28 +1,59 @@
-<h1 align="center">Hi 👋, I'm <br>Muhamad Zafar Syah</h1>
-<img align="center" alt="Web-Developer" width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mygo.ge%2Fuploads%2Fblog%2F1584023795.jpg&f=1&nofb=1&ipt=6647dd4ae71e58191175e2905d9d68642d22c517fbff23a74323f9317492e128&ipo=images">
-<div align="left">
-  <img src='https://readme-typing-svg.herokuapp.com?color=fffff&lines=Front+End+Developer;UI%26UX+Designer](https://readme-typing-svg.herokuapp.com/?color=ffffff&lines=Front+End+Developer;Software+Engineer)](https://readme-typing-svg.herokuapp.com/?color=301DF7&lines=Front+End+Developer;Software+Engineer'></img>
-</div>
-<h3 align="justify">A passionate frontend developer from Indonesia</h3>
-<p align="justify">My name is Muhammad Zafar Syah from Jakarta, Indonesia. I am 17 years old, I am a student from SMKN 65 Jakarta. I have just started studying web development, I am interested in becoming a front end developer of a website, with my high enthusiasm all my achievements can be achieved</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamadzafarsyah&label=Profile%20views&color=0e75b6&style=flat" alt="muhamadzafarsyah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhamadzafarsyah" alt="muhamadzafarsyah" /></a> </p>
-
-- 🔭 I’m currently working on [SkyFlix](https://skyflixx.github.io/)
-
-- 👯 I’m looking to collaborate on [Sok Tahu](https://soktahu.github.io/)
-
-- 📫 How to reach me **zafarsyah123@gmail.com**
-
-- ⚡ Fun fact **enthusiastic**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/zfarrrr_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zfarrrr_" height="30" width="40" /></a>
+<!-- Banner Keren -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Muhamad+Zafar+Syah;A+Passionate+Fullstack+Student+Developer!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74462760/230733383-92a92f1b-6c65-43c7-bb45-8b5403a4a2ed.png" alt="Banner" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhamadzafarsyah&show_icons=true&locale=en" alt="muhamadzafarsyah" /></p>
+---
+
+## 🧑‍💻 About Me
+
+Hi! I'm **Muhamad Zafar Syah**, a passionate student developer focused on web technologies, mainly using **Laravel**, **Next.js**, and **Inertia.js**.  
+Currently exploring full-stack development while contributing to school projects, internships, and building products like CBT, e-commerce, and SaaS apps.
+
+- 🔭 Currently working on: CBT App, SaaS Landing Pages, E-Commerce Projects  
+- 🌱 Learning: TypeScript, Advanced Laravel Patterns, UI/UX Best Practices  
+- 💡 Fun Fact: I don’t wait for motivation — I rely on discipline and persistence 💪  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://www.instagram.com/your-username/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamadzafarsyah&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadzafarsyah&theme=radical" alt="GitHub Streak" />
+</p>
