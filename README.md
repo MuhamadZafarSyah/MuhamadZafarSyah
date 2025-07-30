@@ -1,6 +1,6 @@
 <!-- Banner Keren -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Muhamad+Zafar+Syah;A+Passionate+Fullstack+Student+Developer!" alt="Typing SVG" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH1PKuuPrpV4w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705141035055?e=1756944000&v=beta&t=4Th2LDG_-CDmTyBbKmK_5xOVP5YJWx2CKdW5VrujqJI" alt="Typing SVG" />
 </p>
 
 
