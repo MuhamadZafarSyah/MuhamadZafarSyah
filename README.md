@@ -1,6 +1,6 @@
 <!-- Banner Keren -->
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/v2/D4D16AQH1PKuuPrpV4w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705141035055?e=1756944000&v=beta&t=4Th2LDG_-CDmTyBbKmK_5xOVP5YJWx2CKdW5VrujqJI](https://media.licdn.com/dms/image/v2/D4D16AQH1PKuuPrpV4w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705141035055?e=1778112000&v=beta&t=CB44yWQ5Nj2H9y-HVf7dzyO9F2NRo3iZxOEF2UtCBIs)" alt="Typing SVG" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH1PKuuPrpV4w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705141035055?e=1778112000&v=beta&t=CB44yWQ5Nj2H9y-HVf7dzyO9F2NRo3iZxOEF2UtCBIs" alt="Typing SVG" />
 </p>
 
 
