@@ -1,47 +1,74 @@
-👋 Hi, I'm Muhamad Zafar Syah
-Full Stack Developer | Frontend Specialist | 3D Web Enthusiast
-Saya adalah seorang Full Stack Developer yang berfokus pada pengembangan frontend dengan keyakinan bahwa produk yang luar biasa didefinisikan oleh "nuansa" atau feel yang dirasakan pengguna, sebagaimana fungsinya.  Saya menjembatani pengalaman frontend yang imersif dengan logika backend yang andal untuk menciptakan solusi digital yang lengkap. 
+<div align="center">
 
-🚀 Quick Overview
-🔭 Sedang Mengerjakan: CBT App, SaaS Landing Pages, dan Proyek E-Commerce. 
+# Hi, I'm Zafar 👋
+### Full Stack Developer · Frontend Specialist · UI Craftsman
 
-🏢 Pengalaman Profesional: Saat ini aktif sebagai Frontend Engineer di PT. Traspac Makmur Sejahtera, mengelola aplikasi skalabel dengan Nuxt.js & Vue.js. 
+*"Great software isn't just functional — it should feel right."*
 
-🎓 Pendidikan: Sedang menempuh S1 Sistem Informasi di Universitas Siber Asia. 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhamadzafarsyah)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
-💡 Filosofi: Saya tidak menunggu motivasi — saya mengandalkan disiplin dan kegigihan. 
+</div>
 
-🛠 Tech Stack
-Frontend & UI/UX
-!(https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB)
-!(https://www.google.com/search?q=https://img.shields.io/badge/tailwindcss-%252338B2AC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite)
-!(https://www.google.com/search?q=https://img.shields.io/badge/threejs-black%3Fstyle%3Dfor-the-badge%26logo%3Dthree.js%26logoColor%3Dwhite)
+---
 
-Backend & Database
-!(https://www.google.com/search?q=https://img.shields.io/badge/mysql-%252300f.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite)
-!(https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite)
+## 🙋‍♂️ About Me
 
-Tools & Others
-!(https://www.google.com/search?q=https://img.shields.io/badge/typescript-%2523007ACC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite)
-!(https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+I'm a **Full Stack Developer** with a sharp focus on frontend engineering — building scalable, visually compelling, and user-first web experiences. I bridge the gap between clean backend logic and intuitive UI, so products don't just work, they *feel* great.
 
-🏆 Professional Highlights
-Frontend Engineer @ PT. Traspac Makmur Sejahtera: Bertanggung jawab dalam transformasi desain UI/UX menjadi komponen fungsional yang skalabel menggunakan Nuxt.js/Vue.js. 
+- 🏢 **Frontend Engineer** @ PT. Traspac Makmur Sejahtera
+- 🎓 **S1 Sistem Informasi** — Universitas Siber Asia *(2026–2030)*
+- 🏆 **KOSMIK 2024** — National Science Olympiad in Informatics
+- ✅ **HackerRank Certified** — Frontend Developer (React), Mar 2026
+- 🌱 Currently deepening: **TypeScript · Advanced Laravel · UI/UX Best Practices**
+- ⚡ Fun fact: I believe **discipline beats motivation** — every single time.
 
-Ex-Full Stack Developer @ Kemendag RI: Berkontribusi dalam pengembangan sistem informasi sektor publik selama periode strategis. 
+---
 
-HackerRank Certified: Terverifikasi sebagai Frontend Developer (React) tingkat industri. 
+## 🛠️ Tech Stack
 
-Olimpiade Informatika: Peraih penghargaan di Olimpiade Sains Nasional (KOSMIK) 2024 bidang Informatika. 
+**Frontend**
 
-📈 GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMuhamadZafarSyah%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="Zafar's GitHub Stats" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,tailwind,html,css&perline=9)](https://skillicons.dev)
 
-📫 Let's Connect!
-LinkedIn: linkedin.com/in/muhamadzafarsyah
+**Backend & Database**
 
-Portfolio: zaffarsaffee.github.io
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,python,mysql,postgres,redis&perline=9)](https://skillicons.dev)
 
-“Building solutions with clean architecture and immersive experiences.”
+**Tools & Others**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&perline=9)](https://skillicons.dev)
+
+**Exploring**
+
+[![My Skills](https://skillicons.dev/icons?i=threejs,tensorflow&perline=9)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MuhamadZafarSyah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadZafarSyah&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 What I'm Building
+
+| Project | Stack | Description |
+|---|---|---|
+| 🧪 **CBT App** | Vue.js + Laravel | Secure digital exam platform |
+| 🛍️ **E-Commerce** | Next.js + API Integration | Full-featured online store with payment & logistics |
+| 🌐 **SaaS Landing Pages** | Nuxt.js + Tailwind | Conversion-focused landing pages |
+
+---
+
+<div align="center">
+
+*Open to exciting opportunities · Let's build something great together.*
+
+</div>
