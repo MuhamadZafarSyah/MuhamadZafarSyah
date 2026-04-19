@@ -66,8 +66,8 @@ I'm a **Full Stack Developer** with a sharp focus on frontend engineering — bu
 | 🛍️ **E-Commerce** | Next.js + API Integration | Full-featured online store with payment & logistics |
 | 🌐 **SaaS Landing Pages** | Nuxt.js + Tailwind | Conversion-focused landing pages |
 
----
 -->
+---
 <div align="center">
 
 *Open to exciting opportunities · Let's build something great together.*
