@@ -30,7 +30,7 @@ I'm a **Full Stack Developer** with a sharp focus on frontend engineering — bu
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,ts,js,tailwind,html,css&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,svelte,vue,nuxtjs,ts,js,tailwind,html,css&perline=10)](https://skillicons.dev)
 
 **Backend & Database**
 
