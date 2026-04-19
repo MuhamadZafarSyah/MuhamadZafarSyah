@@ -34,7 +34,7 @@ I'm a **Full Stack Developer** with a sharp focus on frontend engineering — bu
 
 **Backend & Database**
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,python,mysql,postgres,redis&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,expressjs,php,go,mysql,postgres,redis&perline=10)](https://skillicons.dev)
 
 **Tools & Others**
 
