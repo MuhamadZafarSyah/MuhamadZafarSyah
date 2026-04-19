@@ -55,6 +55,7 @@ I'm a **Full Stack Developer** with a sharp focus on frontend engineering — bu
 
 </div>
 
+<!-- 
 ---
 
 ## 🚀 What I'm Building
@@ -66,7 +67,7 @@ I'm a **Full Stack Developer** with a sharp focus on frontend engineering — bu
 | 🌐 **SaaS Landing Pages** | Nuxt.js + Tailwind | Conversion-focused landing pages |
 
 ---
-
+-->
 <div align="center">
 
 *Open to exciting opportunities · Let's build something great together.*
