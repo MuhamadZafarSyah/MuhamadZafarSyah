@@ -1,56 +1,47 @@
-<!-- Banner Keren -->
+👋 Hi, I'm Muhamad Zafar Syah
+Full Stack Developer | Frontend Specialist | 3D Web Enthusiast
+Saya adalah seorang Full Stack Developer yang berfokus pada pengembangan frontend dengan keyakinan bahwa produk yang luar biasa didefinisikan oleh "nuansa" atau feel yang dirasakan pengguna, sebagaimana fungsinya.  Saya menjembatani pengalaman frontend yang imersif dengan logika backend yang andal untuk menciptakan solusi digital yang lengkap. 
+
+🚀 Quick Overview
+🔭 Sedang Mengerjakan: CBT App, SaaS Landing Pages, dan Proyek E-Commerce. 
+
+🏢 Pengalaman Profesional: Saat ini aktif sebagai Frontend Engineer di PT. Traspac Makmur Sejahtera, mengelola aplikasi skalabel dengan Nuxt.js & Vue.js. 
+
+🎓 Pendidikan: Sedang menempuh S1 Sistem Informasi di Universitas Siber Asia. 
+
+💡 Filosofi: Saya tidak menunggu motivasi — saya mengandalkan disiplin dan kegigihan. 
+
+🛠 Tech Stack
+Frontend & UI/UX
+!(https://www.google.com/search?q=https://img.shields.io/badge/react-%252320232a.svg%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB)
+!(https://www.google.com/search?q=https://img.shields.io/badge/tailwindcss-%252338B2AC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite)
+!(https://www.google.com/search?q=https://img.shields.io/badge/threejs-black%3Fstyle%3Dfor-the-badge%26logo%3Dthree.js%26logoColor%3Dwhite)
+
+Backend & Database
+!(https://www.google.com/search?q=https://img.shields.io/badge/mysql-%252300f.svg%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite)
+!(https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite)
+
+Tools & Others
+!(https://www.google.com/search?q=https://img.shields.io/badge/typescript-%2523007ACC.svg%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite)
+!(https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+🏆 Professional Highlights
+Frontend Engineer @ PT. Traspac Makmur Sejahtera: Bertanggung jawab dalam transformasi desain UI/UX menjadi komponen fungsional yang skalabel menggunakan Nuxt.js/Vue.js. 
+
+Ex-Full Stack Developer @ Kemendag RI: Berkontribusi dalam pengembangan sistem informasi sektor publik selama periode strategis. 
+
+HackerRank Certified: Terverifikasi sebagai Frontend Developer (React) tingkat industri. 
+
+Olimpiade Informatika: Peraih penghargaan di Olimpiade Sains Nasional (KOSMIK) 2024 bidang Informatika. 
+
+📈 GitHub Stats
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQH1PKuuPrpV4w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1705141035055?e=1778112000&v=beta&t=CB44yWQ5Nj2H9y-HVf7dzyO9F2NRo3iZxOEF2UtCBIs" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMuhamadZafarSyah%26show_icons%3Dtrue%26theme%3Dtokyonight" alt="Zafar's GitHub Stats" />
 </p>
 
+📫 Let's Connect!
+LinkedIn: linkedin.com/in/muhamadzafarsyah
 
----
+Portfolio: zaffarsaffee.github.io
 
-## 🧑‍💻 About Me
-
-Hi! I'm **Muhamad Zafar Syah**, a passionate student developer focused on web technologies, mainly using **Laravel**, **Next.js**, and **Inertia.js**.  
-Currently exploring full-stack development while contributing to school projects, internships, and building products like CBT, e-commerce, and SaaS apps.
-
-- 🔭 Currently working on: CBT App, SaaS Landing Pages, E-Commerce Projects  
-- 🌱 Learning: TypeScript, Advanced Laravel Patterns, UI/UX Best Practices  
-- 💡 Fun Fact: I don’t wait for motivation — I rely on discipline and persistence 💪  
-
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://laravel.com/img/favicon/favicon-32x32.png" width="40" height="40" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://www.instagram.com/your-username/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhamadzafarsyah&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadzafarsyah&theme=radical" alt="GitHub Streak" />
-</p>
+“Building solutions with clean architecture and immersive experiences.”
